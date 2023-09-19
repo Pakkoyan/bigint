@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u28gVZQEjFGt67tybqvR09rzZvFX4Vv2JGYL3i3FrlTHqjSaXCcN0sZ4U2hqJHWcGQV2XtfODd6oQ3Qh95s/vw==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/bigint/bigint/bigint.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

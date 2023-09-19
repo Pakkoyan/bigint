@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/bigint/bigint/bin/Debug/net7.0/bigint
+/home/Ame/Code/C#/bigint/bigint/bin/Debug/net7.0/bigint.deps.json
+/home/Ame/Code/C#/bigint/bigint/bin/Debug/net7.0/bigint.runtimeconfig.json
+/home/Ame/Code/C#/bigint/bigint/bin/Debug/net7.0/bigint.dll
+/home/Ame/Code/C#/bigint/bigint/bin/Debug/net7.0/bigint.pdb
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.AssemblyInfo.cs
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.dll
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/refint/bigint.dll
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.pdb
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/bigint.genruntimeconfig.cache
+/home/Ame/Code/C#/bigint/bigint/obj/Debug/net7.0/ref/bigint.dll
